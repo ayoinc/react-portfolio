@@ -1,40 +1,40 @@
 {
   "main": {
-    "name": "Sonny Sangha",
-    "occupation": "ReactJS Developer && Instructor @CleverProgrammer",
-    "description": "Full Stack React Developer by Day, Founder && Freelancer by Night. #papaReact",
-    "image": "IG_Sonny.jpeg",
-    "bio": "My name is Sonny, I'm a Full Stack ReactJS Developer. Currently I'm working at Clever Programmer while also coaching ",
+    "name": "Ayodele Ajayi",
+    "occupation": "DevOps && Site Reliability Engineer",
+    "description": "Ops | Tooling | CI/CD by Day",
+    "image": "ayo.png",
+    "bio": "My name is Ayo, I'm a Site Reliability Engineer. Currently I'm working at the Rank Group.",
     "contactmessage": "Get in touch with me to receive further details, get coached or anything else.",
-    "email": "sonny@cleverprogrammer.com",
-    "phone": "+44 12 345 6789",
+    "email": "ayoinc@gmail.com",
+    "phone": "",
     "address": {
-      "street": "123 Fake Street",
+      "street": "",
       "city": "London",
       "state": "UK",
-      "zip": "ABC 123"
+      "zip": ""
     },
-    "website": "http://www.timbakerdev.com",
-    "resumedownload": "http://timbakerdev.com",
+    "website": "http://containercode.club",
+    "resumedownload": "http://containercode.club",
     "social": [
       {
         "name": "facebook",
-        "url": "https://www.facebook.com/sonny.sangha.3",
+        "url": "https://www.facebook.com/ayoinc",
         "className": "fa fa-facebook"
       },
       {
         "name": "linkedin",
-        "url": "https://www.linkedin.com/in/saajansangha/",
+        "url": "https://www.linkedin.com/in/ayoinc/",
         "className": "fa fa-linkedin"
       },
       {
         "name": "instagram",
-        "url": "https://www.instagram.com/ssssangha/",
+        "url": "https://www.instagram.com/ayoinc/",
         "className": "fa fa-instagram"
       },
       {
         "name": "github",
-        "url": "http://github.com/sonnysangha",
+        "url": "http://github.com/ayoinc",
         "className": "fa fa-github"
       }
     ]
