@@ -1,7 +1,7 @@
 {
   "main": {
     "name": "Ayodele Ajayi",
-    "occupation": "DevOps && Site Reliability Engineer",
+    "occupation": "DevOps & Site Reliability Engineer",
     "description": "Ops | Tooling | CI/CD by Day",
     "image": "ayo.png",
     "bio": "My name is Ayo, I'm a Site Reliability Engineer. Currently I'm working at the Rank Group.",
@@ -40,7 +40,7 @@
     ]
   },
   "resume": {
-    "skillmessage": "Here you can create a short write-up of your skills to show off to employers",
+    "skillmessage": "A brief over of my skillset",
     "education": [
       {
         "school": "University of Kent",
