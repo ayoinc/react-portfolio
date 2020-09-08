@@ -14,6 +14,7 @@ ENV NODE_CONFIG_ENV dev
 WORKDIR /usr/src/app
 # # Copy all other source code to work directory
 ADD . /usr/src/app
+CMD ["npm", "install", "--save", "@sentry/react", "@sentry/tracing"]
 # # Start
 CMD [ "npm", "start" ]
 EXPOSE 7001
