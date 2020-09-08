@@ -43,10 +43,10 @@
     "skillmessage": "A brief over of my skillset",
     "education": [
       {
-        "school": "University of Kent",
-        "degree": "Masters in Advanced Computer Science",
-        "graduated": "January 2017",
-        "description": "Graduated with Distinction"
+        "school": "Harvard University",
+        "degree": "Cybersecurity: Managing Risk in the Information Age",
+        "graduated": " 2018",
+        "description": "Certificate Obtained"
       }
     ],
     "work": [
