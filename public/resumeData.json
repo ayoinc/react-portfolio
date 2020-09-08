@@ -2,9 +2,9 @@
   "main": {
     "name": "Ayodele Ajayi",
     "occupation": "DevOps & Site Reliability Engineer",
-    "description": "Ops | Tooling | CI/CD by Day",
+    "description": "Ops | Tooling | CI/CD | Play with the Code",
     "image": "ayo.png",
-    "bio": "My name is Ayo, I'm a Site Reliability Engineer. Currently I'm working at the Rank Group.",
+    "bio": "A bright, talented and ambitious DevOps/SysOps / Security / Application specialist with a strong technical background who possesses self-discipline and the ability to work with the minimum of supervision. Having exposure to a wide range of technologies & able to play a key role in diagnosing hardware, software problems, analyse network logs for security and to ensure that quality solutions meet business objectives. Possessing a good team spirit, deadline orientated and having the ability to organize and present complex solutions clearly and accurately. ",
     "contactmessage": "Get in touch with me to receive further details, get coached or anything else.",
     "email": "ayoinc@gmail.com",
     "phone": "",
@@ -40,21 +40,27 @@
     ]
   },
   "resume": {
-    "skillmessage": "A brief over of my skillset",
+    "skillmessage": "A brief overview of my skillset",
     "education": [
       {
         "school": "Harvard University",
         "degree": "Cybersecurity: Managing Risk in the Information Age",
         "graduated": " 2018",
         "description": "Certificate Obtained"
+      },
+      {
+        "school": "The Open University",
+        "degree": "Cyber Security for Small and Medium Businesses",
+        "graduated": " 2016",
+        "description": "Professional Development"
       }
     ],
     "work": [
       {
-        "company": "Clever Programmer",
-        "title": "Team Member && React Specialist",
-        "years": "April 2020 - Present",
-        "description": "Teaching ReactJS to thousands of students."
+        "company": "Rank Group",
+        "title": "Site Reliability Engineer",
+        "years": "March 2020 - Present",
+        "description": "Monitoring/Logging | Maintaining stable application via the use of SLIs"
       },
       {
         "company": "Lindar Media",
@@ -65,27 +71,43 @@
     ],
     "skills": [
       {
-        "name": "ReactJs",
+        "name": "Cloud",
         "level": "100%"
       },
       {
-        "name": "CSS",
+        "name": "Automation",
         "level": "95%"
       },
       {
         "name": "Git",
-        "level": "60%"
+        "level": "95%"
       },
       {
-        "name": "Figma && Adobe XD",
+        "name": "Web Development Framework",
         "level": "55%"
       },
       {
-        "name": "HTML5",
-        "level": "80%"
+        "name": "Docker",
+        "level": "99%"
       },
       {
-        "name": "MongoDB",
+        "name": "Kubernetes",
+        "level": "99%"
+      },
+      {
+        "name": "Python",
+        "level": "50%"
+      },
+      {
+        "name": "DevOps",
+        "level": "90%"
+      },
+      {
+        "name": "CI/CD",
+        "level": "90%"
+      },
+      {
+        "name": "Infrastructure as Code",
         "level": "80%"
       }
     ]
