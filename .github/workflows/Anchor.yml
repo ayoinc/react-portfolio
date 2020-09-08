@@ -6,7 +6,7 @@ jobs:
     steps:
     - uses: actions/checkout@v2
     - name: Docker Build
-      run: docker build . --file Dockerfile --tag trytypescript:latest
+      run: docker build . --file Dockerfile --tag cvpage:latest
 #       run: docker build . --file Dockerfile --tag testrepo/testimage:latest
 
 #     - name: SonarCloud Scan
@@ -23,7 +23,7 @@ jobs:
               
     - uses: anchore/scan-action@v1
       with:
-        image-reference: "trytypescript:latest"
+        image-reference: "cvpage:latest"
         dockerfile-path: "./Dockerfile"
         fail-build: true
         debug: true
