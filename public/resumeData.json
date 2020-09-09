@@ -44,13 +44,19 @@
     "education": [
       {
         "school": "Harvard University",
-        "degree": "Cybersecurity: Managing Risk in the Information Age",
+        "program": "Cybersecurity: Managing Risk in the Information Age",
         "graduated": " 2018",
         "description": "Certificate Obtained"
       },
       {
         "school": "The Open University",
-        "degree": "Cyber Security for Small and Medium Businesses",
+        "program": "Cyber Security for Small and Medium Businesses",
+        "graduated": " 2016",
+        "description": "Professional Development"
+      },
+      {
+        "school": "Firebrand Academy",
+        "certification": "PRINCE2 (Projects In Controlled Environments 2",
         "graduated": " 2016",
         "description": "Professional Development"
       }
@@ -63,10 +69,22 @@
         "description": "Monitoring/Logging | Maintaining stable application via the use of SLIs"
       },
       {
-        "company": "Lindar Media",
-        "title": "Software Engineer",
-        "years": "Nov 2019 - April 2020",
-        "description": "Building MrQ, a gambling website."
+        "company": "Adjoint Inc.",
+        "title": "DevOps Engineer",
+        "years": "Aug 2019 - March 2020",
+        "description": "Building sustainable CI/CD process for FinTech / Smart Ledger Solution"
+      },
+      {
+        "company": "OpenAsset (Axomic Limited)",
+        "title": "IT Engineer",
+        "years": "Jan 2018 - Aug 2019",
+        "description": "Support and IT problems resolving for Digital Asset Management"
+      },
+      {
+        "company": "Indivior PLC.",
+        "title": "System Analyst",
+        "years": "Mar 2016 - Jan 2018",
+        "description": "Support and IT problems resolving for Pharmaceuticals"
       }
     ],
     "skills": [
@@ -114,47 +132,47 @@
   },
   "portfolio": {
     "projects": [
-      {
-        "title": "MERN Stack WhatsApp Clone",
-        "category": "WhatsApp Clone built with MERN (MongoDB, ExpressJS, ReactJS, NodeJS)",
-        "image": "whatsapp-mern.jpeg",
-        "url": "https://www.youtube.com/watch?v=gzdQDxzW2Tw"
-      },
-      {
-        "title": "MERN Stack TikTok Clone",
-        "category": "TikTok Clone built with MERN (MongoDB, ExpressJS, ReactJS, NodeJS)",
-        "image": "tiktok-mern.jpeg",
-        "url": "https://www.youtube.com/watch?v=g8yGxDMyGiE"
-      },
-      {
-        "title": "Facebook Clone with React",
-        "category": "Facebook Clone built with ReactJS",
-        "image": "facebook-clone.png",
-        "url": "https://www.youtube.com/watch?v=B-kxUMHBxNo"
-      },
-      {
-        "title": "Airbnb Clone",
-        "category": "Facebook Clone built with ReactJS",
-        "image": "airbnb-clone.jpeg",
-        "url": "https://www.youtube.com/watch?v=BtJeH_-XYaA"
-      },
-      {
-        "title": "Netflix Clone",
-        "category": "Facebook Clone built with ReactJS",
-        "image": "netflix-clone.jpeg",
-        "url": "https://www.youtube.com/watch?v=XtMThy8QKqU&t=9358s"
-      }
+      // {
+      //   "title": "MERN Stack WhatsApp Clone",
+      //   "category": "WhatsApp Clone built with MERN (MongoDB, ExpressJS, ReactJS, NodeJS)",
+      //   "image": "whatsapp-mern.jpeg",
+      //   "url": "https://www.youtube.com/watch?v=gzdQDxzW2Tw"
+      // },
+      // {
+      //   "title": "MERN Stack TikTok Clone",
+      //   "category": "TikTok Clone built with MERN (MongoDB, ExpressJS, ReactJS, NodeJS)",
+      //   "image": "tiktok-mern.jpeg",
+      //   "url": "https://www.youtube.com/watch?v=g8yGxDMyGiE"
+      // },
+      // {
+      //   "title": "Facebook Clone with React",
+      //   "category": "Facebook Clone built with ReactJS",
+      //   "image": "facebook-clone.png",
+      //   "url": "https://www.youtube.com/watch?v=B-kxUMHBxNo"
+      // },
+      // {
+      //   "title": "Airbnb Clone",
+      //   "category": "Facebook Clone built with ReactJS",
+      //   "image": "airbnb-clone.jpeg",
+      //   "url": "https://www.youtube.com/watch?v=BtJeH_-XYaA"
+      // },
+      // {
+      //   "title": "Netflix Clone",
+      //   "category": "Facebook Clone built with ReactJS",
+      //   "image": "netflix-clone.jpeg",
+      //   "url": "https://www.youtube.com/watch?v=XtMThy8QKqU&t=9358s"
+      // }
     ]
   },
   "testimonials": {
     "testimonials": [
       {
-        "text": "Here you should write some nice things that someone has said about you. No lies though, employers can tell when you are lying.",
-        "user": "Kareem Abdul Jabbar"
+        "text": "Ayo delivers tasks to the up most excellence! Thank you for looking after our IT issues when I worked with you. You know your trade and a good person too",
+        "user": "John Kyagulanyi MBA FCCA"
       },
       {
-        "text": "That Sonny Sangha must be one of the most brilliant developers I've ever met! It is amazing that nobody has hired him yet. Hey you, you should hire this guy, he may be fresh out of University and have zero on the job experience but I am confident that he will be one of your best developers in no time!",
-        "user": "Steve Wozniak... impersonator"
+        "text": "Ayo, you are have been extremely proactive and with every technical query I have had, you have always managed to resolve it sometimes even better than external suppliers that we work with! You would definitely be a great asset for any company and it is a shame we are not working with you at Indivior!",
+        "user": "Amrita Bowry"
       }
     ]
   }
