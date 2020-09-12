@@ -44,19 +44,19 @@
     "education": [
       {
         "school": "Harvard University",
-        "program": "Cybersecurity: Managing Risk in the Information Age",
+        "degree": "Cybersecurity: Managing Risk in the Information Age",
         "graduated": " 2018",
         "description": "Certificate Obtained"
       },
       {
         "school": "The Open University",
-        "program": "Cyber Security for Small and Medium Businesses",
+        "degree": "Cyber Security for Small and Medium Businesses",
         "graduated": " 2016",
         "description": "Professional Development"
       },
       {
         "school": "Firebrand Academy",
-        "certification": "PRINCE2 (Projects In Controlled Environments 2",
+        "degree": "PRINCE2 (Projects In Controlled Environments 2",
         "graduated": " 2016",
         "description": "Professional Development"
       }
