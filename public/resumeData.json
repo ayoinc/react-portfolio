@@ -118,15 +118,15 @@
       },
       {
         "name": "DevOps",
-        "level": "90%"
+        "level": "95%"
       },
       {
         "name": "CI/CD",
-        "level": "90%"
+        "level": "95%"
       },
       {
         "name": "Infrastructure as Code",
-        "level": "80%"
+        "level": "90%"
       }
     ]
   },
