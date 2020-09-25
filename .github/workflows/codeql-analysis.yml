@@ -30,6 +30,16 @@ jobs:
         # We must fetch at least the immediate parents so that if this is
         # a pull request then we can checkout the head.
         fetch-depth: 2
+      
+    - name: Cache
+      uses: actions/cache@v2.1.1
+      with:
+        # A list of files, directories, and wildcard patterns to cache and restore
+        path: .
+        # An explicit key for restoring and saving the cache
+#         key: 
+        # An ordered list of keys to use for restoring the cache if no cache hit occurred for key
+#         restore-keys: # optional
 
     # If this run was triggered by a pull request event, then checkout
     # the head of the pull request instead of the merge commit.
