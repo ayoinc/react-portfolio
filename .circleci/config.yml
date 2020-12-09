@@ -5,11 +5,4 @@ workflows:
   node-tests:
     jobs:
       - node/test
-
-steps:
-    - checkout
-    - run:
-        name: Install and Build React
-        command: |
-          npm install
-          npm build
+      
