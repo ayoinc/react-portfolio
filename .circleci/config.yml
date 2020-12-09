@@ -6,10 +6,10 @@ workflows:
     jobs:
       - node/test
 
-  steps:
-      - checkout
-      - run:
-          name: Install and Build React
-          command: |
-            npm install
-            npm build
+    steps:
+        - checkout
+        - run:
+            name: Install and Build React
+            command: |
+              npm install
+              npm build
