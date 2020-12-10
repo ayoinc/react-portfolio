@@ -19,5 +19,5 @@ jobs:
           root: ../.
           paths:
             - node_modules
-      - store_test_results:
-          paths: /home/circleci/junit.xml
+      # - store_test_results:
+      #     paths: /home/circleci/junit.xml
