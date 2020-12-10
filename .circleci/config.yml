@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 # version: 2.1
+=======
+version: 2.1
+>>>>>>> f90221aa9b75ba7b14a58e3b41d5f1d88fdd38ba
 # orbs:
 #   node: circleci/node@3.0.0
 # workflows:
