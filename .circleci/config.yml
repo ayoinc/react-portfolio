@@ -19,4 +19,4 @@ jobs:
           destination: build
 
       - store_test_results:
-          path: test-results
+          path: ~/react-portfolio
