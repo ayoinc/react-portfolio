@@ -19,5 +19,5 @@ jobs:
           root: ../.
           paths:
             - node_modules
-      - store_test_results:
-          paths: ~/react-portfolio/junit.xml
+      # - store_test_results:
+      #     paths: ~/react-portfolio/junit.xml
