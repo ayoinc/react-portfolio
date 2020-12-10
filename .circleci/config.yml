@@ -20,4 +20,4 @@ jobs:
           paths:
             - node_modules
       - store_test_results:
-          paths: ../junit.xml
+          paths: /Users/ajayifam/react-portfolio/junit.xml
