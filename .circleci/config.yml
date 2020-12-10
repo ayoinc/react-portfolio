@@ -8,7 +8,7 @@
 version: 2
 jobs:
   build:
-    working_directory: /home/circleci
+    working_directory: ~/react-portfolio
     docker:
       - image: circleci/node:8
     steps:
@@ -19,5 +19,5 @@ jobs:
           root: ../.
           paths:
             - node_modules
-      # - store_test_results:
-      #     paths: ~/react-portfolio/junit.xml
+      - store_test_results:
+          paths: /home/circleci/junit.xml
