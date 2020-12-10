@@ -5,12 +5,12 @@
 #   node-tests:
 #     jobs:
 #       - node/test
-version: 2
+version: 2.1
 jobs:
   build:
     working_directory: ~/react-portfolio
     docker:
-      - image: circleci/node:8
+      - image: circleci/node
     steps:
       - checkout
       - run: npm install
