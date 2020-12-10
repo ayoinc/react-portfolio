@@ -1,7 +1,21 @@
 version: 2.1
-orbs:
-  node: circleci/node@3.0.0
+# orbs:
+#   node: circleci/node@3.0.0
+# workflows:
+#   node-tests:
+#     jobs:
+#       - node/test
 workflows:
-  node-tests:
+  version: 2
+  build-test-and-deploy:
     jobs:
-      - node/test
+      - build
+      - test1:
+          requires:
+            - build
+      - test2:
+          requires:
+            - test1
+      - deploy:
+          requires:
+            - test2
