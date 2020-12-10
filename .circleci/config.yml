@@ -12,10 +12,8 @@ jobs:
           root: ~/react-portfolio
           paths:
             - node_modules
-      # - store_test_results:
-      #     paths: /home/circleci/junit.xml
       - store_artifacts:
-          path: /tmp/artifacts
+          path: ~/react-portfolio
           destination: build
 
       - store_test_results:
