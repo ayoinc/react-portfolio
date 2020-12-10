@@ -14,3 +14,9 @@ jobs:
             - node_modules
       # - store_test_results:
       #     paths: /home/circleci/junit.xml
+      - store_artifacts:
+          path: /tmp/artifacts
+          destination: build
+
+      - store_test_results:
+          path: test-results
