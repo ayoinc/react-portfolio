@@ -1,15 +1,3 @@
 # Clever Programmer ReactJS Portfolio Template      
 
-
-#### All Credits Goes to Tim Baker <a href='https://github.com/tbakerx/react-resume-template'>Original Repo</a>
-
-
-
-HTML Design Template
-<a href="https://www.styleshout.com/free-templates/ceevee/">Ceevee Template by Styleshout</a>
-
-Header photo credit
-<a href="https://unsplash.com/@mischievous_penguins?utm_medium=referral&amp;utm_campaign=photographer-credit&amp;utm_content=creditBadge">Casey Horner</a>
-
-Testimonial photo credit
-<a href="https://unsplash.com/@samuelzeller?utm_medium=referral&amp;utm_campaign=photographer-credit&amp;utm_content=creditBadge">Samuel Zeller</a>
+[![Netlify Status](https://api.netlify.com/api/v1/badges/eb78b3b0-1acd-48cc-9802-f63ffeb3409d/deploy-status)](https://app.netlify.com/sites/clevercode/deploys)
