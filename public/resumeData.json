@@ -135,31 +135,31 @@
       {
         "title": "",
         "category": "",
+        "image": "AyodeleAWS Migration.pdf",
+        "url": ""
+      },
+      {
+        "title": "",
+        "category": "",
+        "image": "AyodeleDevops.pdf",
+        "url": ""
+      },
+      {
+        "title": "",
+        "category": "AyodeleGCP.pdf",
         "image": "",
         "url": ""
       },
       {
         "title": "",
         "category": "",
-        "image": "",
+        "image": "AyodeleImplementing.pdf",
         "url": ""
       },
       {
         "title": "",
         "category": "",
-        "image": "",
-        "url": ""
-      },
-      {
-        "title": "",
-        "category": "",
-        "image": "",
-        "url": ""
-      },
-      {
-        "title": "",
-        "category": "",
-        "image": "",
+        "image": "azure_architect_design.pdf",
         "url": ""
       }
     ]
