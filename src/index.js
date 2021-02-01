@@ -6,7 +6,7 @@ import registerServiceWorker from './registerServiceWorker';
 import {Helmet} from 'react-helmet';
 
 
-class App  extends React.Component {
+
 	render() {
 	  return (
 	  	<div className="application">
@@ -17,8 +17,8 @@ class App  extends React.Component {
 		  </Helmet>
 		</div>
 	  );
-	}
-};
+	};
+
 
 ReactDOM.render(<App />, document.getElementById('root'));
 
