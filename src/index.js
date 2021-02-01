@@ -6,10 +6,10 @@ import registerServiceWorker from './registerServiceWorker';
 import {Helmet} from 'react-helmet';
 
 
-class App1 extends React.Component {
+class Application extends React.Component {
 	render() {
 	  return (
-	  	<div className="App1">
+	  	<div className="application">
 		  <Helmet>
 		  	<meta charset="utf-8" />
 		  	<title>CloudFlare</title>
