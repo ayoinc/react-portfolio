@@ -6,10 +6,5 @@ import registerServiceWorker from './registerServiceWorker';
 import {Helmet} from 'react-helmet';
 
 
-
-
-
 ReactDOM.render(<App />, document.getElementById('root'));
-
 registerServiceWorker();
-
