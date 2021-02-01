@@ -6,7 +6,7 @@ import registerServiceWorker from './registerServiceWorker';
 import {Helmet} from 'react-helmet';
 
 
-class Application extends React.Component {
+class App  extends React.Component {
 	render() {
 	  return (
 	  	<div className="application">
