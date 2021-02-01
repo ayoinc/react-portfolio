@@ -17,7 +17,7 @@ import {Helmet} from 'react-helmet';
 		  </Helmet>
 		</div>
 	  );
-	};
+	}
 
 
 ReactDOM.render(<App />, document.getElementById('root'));
