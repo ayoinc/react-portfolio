@@ -63,6 +63,12 @@
     ],
     "work": [
       {
+        "company": "Doctor Care Anywhere",
+        "title": "DevOps/Site Reliability Engineer",
+        "years": "March 2021 - Present",
+        "description": "Cloud, DevOps and Site Reliability with various tools | Maintaining reliability of Infrastructure and stability of application"
+      },
+      {
         "company": "Rank Group",
         "title": "Site Reliability Engineer",
         "years": "March 2020 - Present",
