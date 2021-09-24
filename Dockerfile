@@ -8,16 +8,14 @@ ENV EGG_SERVER_ENV dev
 ENV NODE_ENV dev
 ENV NODE_CONFIG_ENV dev
 # Set the timezone in docker
-# RUN apk --update add tzdata 
+# RUN apk --update add tzdata
 #    && cp /usr/share/zoneinfo/Asia/Hong_Kong /etc/localtime \\    && echo "Asia/Hong_Kong" > /etc/timezone \\   && apk del tzdata
 # Create Directory for the Container
 WORKDIR /usr/src/app
 # # Copy all other source code to work directory
 ADD . /usr/src/app
-CMD ["npm", "install", "--save", "@sentry/react", "@sentry/tracing"]
+CMD ["npm", "install"]
 # # Start
 CMD [ "npm", "start" ]
-EXPOSE 7001
 
-HEALTHCHECK --interval=5m --timeout=3s \
-  CMD curl -f http://localhost:7001/ || exit 1
+EXPOSE 3000
