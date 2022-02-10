@@ -1,4 +1,4 @@
-FROM node:buster
+FROM node:current-slim
 # Env
 RUN useradd -u 8877 ayoinc
 USER ayoinc
