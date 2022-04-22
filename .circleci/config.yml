@@ -15,6 +15,7 @@ jobs:
       # - store_artifacts:
       #     path: ~/react-portfolio
       #     destination: build
+          parallelism: 4
 
       - store_test_results:
           path: ~/react-portfolio
