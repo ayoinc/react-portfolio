@@ -12,10 +12,9 @@ jobs:
           root: ~/react-portfolio
           paths:
             - node_modules
-      # - store_artifacts:
-      #     path: ~/react-portfolio
-      #     destination: build
-          parallelism: 4
+      - store_artifacts:
+          path: ~/react-portfolio
+          destination: build
 
       - store_test_results:
           path: ~/react-portfolio
