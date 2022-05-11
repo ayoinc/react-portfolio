@@ -1,20 +1,14 @@
 version: 2.1
+orbs:
+  node: circleci/node@5.0.2
+workflows:
+    example-workflow:
+      jobs:
+        - node/test
 jobs:
-  build:
-    working_directory: ~/react-portfolio
+  example-job:
     docker:
-      - image: circleci/node
+      # replace with your preferred image
+      - image: cimg/base:stable
     steps:
-      - checkout
-      - run: npm install
-      - run: npm run build
-      - persist_to_workspace:
-          root: ~/react-portfolio
-          paths:
-            - node_modules
-      # - store_artifacts:
-      #     path: ~/react-portfolio
-      #     destination: build
-
-      - store_test_results:
-          path: ~/react-portfolio
+      - node/install

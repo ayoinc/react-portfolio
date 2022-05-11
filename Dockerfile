@@ -1,4 +1,4 @@
-FROM node:current-slim
+FROM node:17.9-slim
 # Env
 RUN useradd -u 8877 ayoinc
 USER ayoinc
